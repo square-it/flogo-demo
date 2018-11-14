@@ -15,6 +15,9 @@ It includes:
 
 ![Flogo Demo architecture](./FlogoDemo.png)
 
+This architecture diagram can be
+[edited with draw.io](https://www.draw.io/#Hsquare-it%2Fflogo-demo%2Fmaster%2FFlogoDemo.xml).
+
 ## Square IT Services
 
 A french IT consulting company : http://www.sqits.net
