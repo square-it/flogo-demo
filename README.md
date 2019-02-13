@@ -20,4 +20,4 @@ This architecture diagram can be
 
 ## Square IT Services
 
-A french IT consulting company : http://www.sqits.net
+A french :fr: IT consulting company : http://www.sqits.net
